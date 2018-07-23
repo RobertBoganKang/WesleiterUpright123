@@ -9,7 +9,7 @@ This is a piano sound library (Wesleiter Upright 123) sampled with Kontakt at my
 ### Future Samples Includes
 * Several layers of dry sound
 * release samples
-* harmonic samples
+* resonance samples
 * pedal noise samples
 * key noise samples
 
